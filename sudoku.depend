@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538743658 source:/home/prados/Documentos/sudoku/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
